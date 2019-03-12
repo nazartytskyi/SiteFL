@@ -47,6 +47,7 @@ body * {
 }
 
 .feautures-section {
+	margin-top: 40px;
 	background: url(img/waves.png);
 	background-position: center;
 	background-repeat: no-repeat;

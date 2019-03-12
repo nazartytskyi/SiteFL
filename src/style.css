@@ -47,6 +47,10 @@ body * {
 }
 
 .feautures-section {
+	background: url(img/waves.png);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
 	-ms-align-items: center;
 	align-items: center;
 	display: flex;
